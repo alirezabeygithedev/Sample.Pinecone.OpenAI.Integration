@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learning.PineconeVecDB", "Learning.PineconeVecDB\Learning.PineconeVecDB.csproj", "{523DEC49-F050-446C-8A33-B607E2BF5EAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7BAA2AA-050E-4F2B-98D9-3B134C24D7ED}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523DEC49-F050-446C-8A33-B607E2BF5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523DEC49-F050-446C-8A33-B607E2BF5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523DEC49-F050-446C-8A33-B607E2BF5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523DEC49-F050-446C-8A33-B607E2BF5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D5F24F-8E8B-4249-8A8A-420AEC09AA33}
+	EndGlobalSection
+EndGlobal
